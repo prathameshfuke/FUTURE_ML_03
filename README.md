@@ -59,6 +59,11 @@ The project includes visualizations of:
 - Top publishers.
 - Top authors.
 
+Chatbot Flow Visualization:
+Here’s a visual representation of how the chatbot works:
+
+![Books Chatbot Flow](Books Chatbot.png)
+
 ## License:
 This project is licensed under the MIT License.
 
